@@ -47,6 +47,7 @@ Oracle Certified Associate
 ## Awards
 
 `2007`
+
 MA/Drs. "met veel genoegen" / cum laude, Leiden University
 
 `2020`
