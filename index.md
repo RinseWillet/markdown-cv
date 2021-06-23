@@ -1,80 +1,105 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rinse Willet's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rinse Willet
+Programmer, Teacher, Archaeologist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rinse.willet@code-cafe.nl">rinse.willet@code-cafe.nl</a>
+| <a href="https://spacedashboard.top/">React JS website with a Martian theme</a>
+  <a href="https://rinse-css-art-portfolio.web.app/">CSS Art portfolio</a>
+  <a href="https://github.com/RinseWillet">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Junior IT-docent for Code Café
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Programming, chrono-spatial analysis, big data analysis, database design, statistics, field-archaeology.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Geography, Data-Analysis, Archaeology
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2000-2007`
+BA-MA Classical and Mediterranean Archaeology, Leiden University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-2012`
+PhD Classical and Mediterranean Archaeology, Leuven University
 
-- Sizar
+`2020`
+IT-Traineeship Java Full Stack Development
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Certification
 
-- Fellow
+`2020`
+Scrum PSM-1
 
-
+`2020`
+Oracle Certified Associate
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2007`
+MA/Drs. "met veel genoegen" / cum laude
 
-Associate, *French Academy of Science*, Paris, France
+`2020`
 
+Grant Senior Fellowship, ANAMED - Koc University, Istanbul
 
+## Publications (selection)
 
-## Publications
+`2014`
+Willet, R. Experiments with Diachronic Data Distribution Methods Applied to Eastern Sigillata A in the Eastern Mediterranean." HEROM. Journal on Hellenistic and Roman MAterial Culture 3: 39-69.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2016`
+Ottoni, C., Rasteiro, R., Willet, R. et al. "Comparing maternal genetic variation across two millenia reveals the demographic history of an ancient human population in southwest Turkey." Royal Society Open Science 3.
 
-### Journals
+`2020`
+Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
+Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+## Skills
+Technical
+Java
+Spring
+Hibernate
+Maven
+HTML5
+CSS
+Bootstrap
+JavaScript
+React
+Chart.JS
+Tomcat
+SQL
+Access
+R
+Linux
+Python
+Scrum
+Git
+OpenLayers
+Leaflet
+Mapbox
+GeoServer
+QGIS
+ArcGIS
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2009-2013`
+Promovendus, KU Leuven, Faculteit Letteren Onderzoeksgroep Archeologie
+Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van Romeins aardewerk
+Opzetten database in Acces en SQL
+Analyse dataverspreidingspatronen met Excel, R en QGIS
+Plotten van datasets in chrono-spatiale distributie analyses m.b.v. Lineaire, Gaussische en Gamma probabiliteits curves.
 
 - Warden
 - Minted coins
