@@ -7,7 +7,7 @@ Programmer, Teacher, Archaeologist
 
 <div id="webaddress">
 <a href="rinse.willet@code-cafe.nl">rinse.willet@code-cafe.nl</a>
-| <a href="https://spacedashboard.top/">React JS website with a Martian theme</a>
+| <a href="https://spacedashboard.top/">Explore the Final Frontier</a>
 | <a href="https://rinse-css-art-portfolio.web.app/">CSS Art portfolio</a>
 | <a href="https://github.com/RinseWillet">Github</a>
 </div>
