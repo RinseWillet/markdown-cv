@@ -23,7 +23,7 @@ Programming, chrono-spatial analysis, big data analysis, database design, statis
 
 ### Research interests
 
-Geography, Data-Analysis, Archaeology
+Computers, Tech, Geography, Data-Analysis, History
 
 ## Education
 
