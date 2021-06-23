@@ -66,7 +66,7 @@ Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
 Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 ## Skills
-###Technical
+### Technical
 - Java
 - Spring
 - Hibernate
