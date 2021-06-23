@@ -66,6 +66,7 @@ Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
 
 `2020`
 Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
+https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/571?lang=en
 
 ## Skills
 ### Technical
@@ -108,11 +109,11 @@ Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 `2017-2019`
 **Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
-- - *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
+- *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
 
 `2020`
 **Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
-- - *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
+- *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
 
 `2021`
 **Junior Docent CodeCafé**, *Het CodeCafé*, Utrecht
