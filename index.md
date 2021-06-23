@@ -98,11 +98,11 @@ Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 `2013-2017`
 **Post-doctoraal onderzoeker**, *Universiteit Leiden, Instituut voor Geschiedenis*, Leiden
-- - *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
-- - *Opzetten database in Access en SQL*
-- - *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
-- - *3D modellering*
-- - *College geven en syllabus schrijven*
+- *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
+- *Opzetten database in Access en SQL*
+- *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
+- *3D modellering*
+- *College geven en syllabus schrijven*
 
 `2017-2019`
 **Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
