@@ -98,32 +98,32 @@ Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 `2013-2017`
 **Post-doctoraal onderzoeker**, *Universiteit Leiden, Instituut voor Geschiedenis*, Leiden
--- *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
--- *Opzetten database in Access en SQL*
--- *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
--- *3D modellering*
--- *College geven en syllabus schrijven*
+- - *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
+- - *Opzetten database in Access en SQL*
+- - *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
+- - *3D modellering*
+- - *College geven en syllabus schrijven*
 
 `2017-2019`
 **Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
--- *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
+- - *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
 
 `2020`
 **Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
--- *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
+- - *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
 
 `2021`
 **Junior Docent CodeCafé**, *Het CodeCafé*, Utrecht
--- *Opzetten van lessen en lesgeven over Java, HTML, JavaScript*
--- *Filmen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
--- *Lesgeven over OpenLayers, Swing, Mapbox, Leaflet*
+- - *Opzetten van lessen en lesgeven over Java, HTML, JavaScript*
+- - *Filmen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
+- - *Lesgeven over OpenLayers, Swing, Mapbox, Leaflet*
 
 ## Hobbies
 
--- Tinkering
--- Raspberry Pi's
--- Arcade games programmeren in JS
--- Motorrijden en onderhouden
+- - Tinkering
+- - Raspberry Pi's
+- - Arcade games programmeren in JS
+- - Motorrijden en onderhouden
 
 <!-- ### Footer
 
