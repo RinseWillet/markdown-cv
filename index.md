@@ -28,13 +28,13 @@ Geography, Data-Analysis, Archaeology
 ## Education
 
 `2000-2007`
-BA-MA Classical and Mediterranean Archaeology, Leiden University
+**BA-MA Classical and Mediterranean Archaeology**, *Leiden University*
 
 `2009-2012`
-PhD Classical and Mediterranean Archaeology, Leuven University
+**PhD Classical and Mediterranean Archaeology**, *Leuven University*
 
 `2020`
-IT-Traineeship Java Full Stack Development
+**IT-Traineeship Java Full Stack Development**, *Qien B.V.*
 
 ## Certification
 
@@ -47,7 +47,7 @@ Oracle Certified Associate
 ## Awards
 
 `2007`
-MA/Drs. "met veel genoegen" / cum laude
+MA/Drs. "met veel genoegen" / cum laude, Leiden University
 
 `2020`
 
@@ -66,48 +66,64 @@ Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
 Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 ## Skills
-Technical
-Java
-Spring
-Hibernate
-Maven
-HTML5
-CSS
-Bootstrap
-JavaScript
-React
-Chart.JS
-Tomcat
-SQL
-Access
-R
-Linux
-Python
-Scrum
-Git
-OpenLayers
-Leaflet
-Mapbox
-GeoServer
-QGIS
-ArcGIS
+###Technical
+- Java
+- Spring
+- Hibernate
+- Maven
+- Swing
+- JavaFX
+- HTML5
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Chart.JS
+- Tomcat
+- SQL
+- Access
+- R
+- Linux
+- Python
+- Scrum
+- Git
+- OpenLayers
+- Leaflet
+- Mapbox
+- GeoServer
+- QGIS
+- ArcGIS
 
 ## Occupation
 
-`2009-2013`
-Promovendus, KU Leuven, Faculteit Letteren Onderzoeksgroep Archeologie
-Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van Romeins aardewerk
-Opzetten database in Acces en SQL
-Analyse dataverspreidingspatronen met Excel, R en QGIS
-Plotten van datasets in chrono-spatiale distributie analyses m.b.v. Lineaire, Gaussische en Gamma probabiliteits curves.
+`2013-2017`
+**Post-doctoraal onderzoeker**, *Universiteit Leiden, Instituut voor Geschiedenis*, Leiden
+-- *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
+-- *Opzetten database in Access en SQL*
+-- *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
+-- *3D modellering*
+-- *College geven en syllabus schrijven*
 
-- Warden
-- Minted coins
+`2017-2019`
+**Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
+-- *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020`
+**Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
+-- *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
 
+`2021`
+**Junior Docent CodeCafé**, *Het CodeCafé*, Utrecht
+-- *Opzetten van lessen en lesgeven over Java, HTML, JavaScript*
+-- *Filmen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
+-- *Lesgeven over OpenLayers, Swing, Mapbox, Leaflet*
 
+## Hobbies
+
+-- Tinkering
+-- Raspberry Pi's
+-- Arcade games programmeren in JS
+-- Motorrijden en onderhouden
 
 <!-- ### Footer
 
