@@ -63,6 +63,8 @@ Ottoni, C., Rasteiro, R., Willet, R. et al. "Comparing maternal genetic variatio
 
 `2020`
 Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
+
+`2020`
 Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 ## Skills
