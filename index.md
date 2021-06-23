@@ -114,16 +114,16 @@ Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 
 `2021`
 **Junior Docent CodeCafé**, *Het CodeCafé*, Utrecht
-- - *Opzetten van lessen en lesgeven over Java, HTML, JavaScript*
-- - *Filmen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
-- - *Lesgeven over OpenLayers, Swing, Mapbox, Leaflet*
+- *Opzetten van lessen en lesgeven over Java, HTML, JavaScript*
+- *Filmen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
+- *Lesgeven over OpenLayers, Swing, Mapbox, Leaflet*
 
 ## Hobbies
 
-- - Tinkering
-- - Raspberry Pi's
-- - Arcade games programmeren in JS
-- - Motorrijden en onderhouden
+- Tinkering with anything technical
+- Raspberry Pi's
+- Arcade games programmeren in JS
+- Motorrijden en onderhouden
 
 <!-- ### Footer
 
